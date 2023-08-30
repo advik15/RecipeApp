@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734831704471",
+    "project_id": "recipemaker-5bf88",
+    "storage_bucket": "recipemaker-5bf88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734831704471:android:0075b1cc730aff6f0e2cd2",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734831704471-hhdmi9gmuctrlac0nhj4g59pb10qtqaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "a63c7eccaf5f683a7ea0bc8211e244ff153f9aae"
+          }
+        },
+        {
+          "client_id": "734831704471-m05hcjapcsg52ba2jti7ssi6o40uci98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNFUVPp8yGsGJpQl8UbuURN1njc0TyA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734831704471-m05hcjapcsg52ba2jti7ssi6o40uci98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recipes_nav"
+    app:startDestination="@id/food_News_Fragment">
+
+    <fragment
+        android:id="@+id/food_News_Fragment"
+        android:name="com.example.final_project.Food_News_Fragment"
+        android:label="Latest Nutrion News"
+        tools:layout="@layout/fragment_food__news_" />
+    <fragment
+        android:id="@+id/fav_Recipes_Fragment"
+        android:name="com.example.final_project.Fav_Recipes_Fragment"
+        android:label="Your Favorite Recipes"
+        tools:layout="@layout/fragment_fav__recipes_" />
+    <fragment
+        android:id="@+id/recipesFragment"
+        android:name="com.example.final_project.RecipesFragment"
+        android:label="Search for Recipes"
+        tools:layout="@layout/fragment_recipes" />
+</navigation>
